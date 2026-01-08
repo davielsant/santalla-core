@@ -1,0 +1,7 @@
+{
+  "name": "Santalla Core",
+  "description": "A comprehensive ERP prototype featuring POS, Dashboard, Inventory, and AI capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
